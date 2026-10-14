@@ -1,8 +1,10 @@
 # Instructions for Assignment
 
-Please see bandits.ipynb. Instructions to complete this assignment are found at the bottom of the notebook. 
+Please see bandits.ipynb for step by step instructions for this assignment. 
 
-Files to submit: **bandits.ipynb** and **slot_machine.py** for this assignment. Please do not submit bandits.py.
+Please complete your functions in the bandits.py file, they will be imported into bandits.ipynb for visualization. 
+
+Files to submit: **bandits.py** and **slot_machine.py** for this assignment. You do **not** need to submit bandits.ipynb.
 
 --------------------------------
 
