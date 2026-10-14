@@ -1,12 +1,22 @@
+# Instructions for Assignment
+
+Please see bandits.ipynb. Instructions to complete this assignment are found at the bottom of the notebook. 
+
+Files to submit: **bandits.ipynb** and **slot_machine.py** for this assignment. Please do not submit bandits.py.
+
+--------------------------------
+
+For help creating an environment.yml file with conda, please see below:
+
 # Creating a Conda Environment from `environment.yml`
 
 To create a Conda environment using an `environment.yml` file located in the current directory, follow these steps:
 
-## Prerequisites
+### Prerequisites
 - Ensure you have [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/) installed on your system.
 - Open a terminal (Linux/macOS) or Anaconda Prompt (Windows).
 
-## Steps
+### Steps
 
 1. Navigate to the Directory (Optional)
 
